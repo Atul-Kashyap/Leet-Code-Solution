@@ -19,7 +19,7 @@ public:
 
 // Approach 2: Sorting, Two pointer
 // Time complexity : O(NLog(N))
-// Space complexity : O(1)
+// Space complexity : O(N)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

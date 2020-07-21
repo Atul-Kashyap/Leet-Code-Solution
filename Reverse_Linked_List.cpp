@@ -9,7 +9,7 @@
  * };
  */
 
-Brute force Approach 1:
+Approach 1: iterative
 Time Complexity : O(N) { N is the size of linked list }
 Auxiliaxy space : O(N)
 // Traverse Linked List Twice
@@ -29,7 +29,23 @@ public:
     }
 };
 
-Efficient Solution 2 :
+
+Approach 2: Recursive
+Time Complexity : O(N) { N is the size of linked list }
+Auxiliaxy space : O(N)
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        if(head == NULL || head -> next == NULL)
+            return head;  
+        ListNode *node = reverseList(head -> next);
+        head -> next -> next = head;
+        head -> next = NULL;
+        return node;
+    }
+};
+
+Approach 3: iterative (efficient in terms of space)
 Time Complexity : O(N) { N is the size of linked list }
 Auxiliaxy space : O(1)
 

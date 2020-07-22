@@ -1,7 +1,7 @@
 Approach 1: Recursive
-Time Complexity : O(H); H is the height of the tree;
+Time Complexity : O(N)
 Space Complexity : O(H)
-
+H is the height of the tree;
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

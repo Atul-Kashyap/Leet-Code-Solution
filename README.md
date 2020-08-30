@@ -1,5 +1,5 @@
-# Leet-Code-Solution
-Leet code questions solution in C++.
+# Leet Code Solutions
+Leet code questions solution in C++ using different approach.
 1. [Single Number](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Single%20Number.cpp)
 2. [Two sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Two_Sum.cpp)
 3. [Valid Palindrome](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Valid_Palindrome.cpp)
@@ -10,5 +10,5 @@ Leet code questions solution in C++.
 
 
 
-# Important Tutorials of Leet-Code
+# Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

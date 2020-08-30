@@ -7,3 +7,8 @@ Leet code questions solution in C++.
 5. [XOR Queries f a Subarray](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/XOR_Queries_of_a_Subarray.cpp)
 6. [Reverse Linked List](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reverse_Linked_List.cpp)
 7. [Remove Duplicates from Sorted Array](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.cpp)
+
+
+
+# Important Tutorials of Leet-Code
+1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

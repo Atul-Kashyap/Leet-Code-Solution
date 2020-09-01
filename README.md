@@ -7,6 +7,7 @@ Leet code questions solution in C++ using different approach.
 5. [XOR Queries f a Subarray](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/XOR_Queries_of_a_Subarray.cpp)
 6. [Reverse Linked List](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reverse_Linked_List.cpp)
 7. [Remove Duplicates from Sorted Array](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.cpp)
+8. [Add Two Numbers](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Add%20Two%20Numbers.cpp)
 
 
 

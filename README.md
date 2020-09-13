@@ -9,6 +9,7 @@ Leet code questions solution in C++ using different approach.
 7. [Remove Duplicates from Sorted Array](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.cpp)
 8. [Add Two Numbers](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Add%20Two%20Numbers.cpp)
 9. [Single Number II.cpp](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Single%20Number%20II.cpp)
+10. [Check If Array Pairs Are Divisible by k](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.cpp)
 
 
 

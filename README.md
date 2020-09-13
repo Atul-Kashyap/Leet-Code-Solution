@@ -11,7 +11,7 @@ Leet code questions solution in C++ using different approach.
 9. [Single Number II.cpp](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Single%20Number%20II.cpp)
 10. [Check If Array Pairs Are Divisible by k](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.cpp)
 11. [Squares of a Sorted Array](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Squares%20of%20a%20Sorted%20Array.cpp)
-
+12. [Middle of the Linked List](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Middle%20of%20the%20Linked%20List.cpp)
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

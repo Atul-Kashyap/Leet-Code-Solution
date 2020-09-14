@@ -1,6 +1,6 @@
-Approach 1: Brute Force
-Time Complexity : O(N), where N is the length of word and O(26 * N).
-Space Complexity : O(1)
+// Approach 1: Brute Force
+// Time Complexity : O(N), where N is the length of word and O(26 * N).
+// Space Complexity : O(1)
 
 class Solution {
 public:
@@ -23,7 +23,7 @@ public:
                ans +=  r-j;
                j = r;
             }
-            else if (l >= 0 && r >= 26){
+            else{
                 ans += j-l;
                 j = l;
             }
@@ -34,9 +34,9 @@ public:
     }
 };
 
-Approach 2: Hash Map
-Time Complexity : O(N), where N is the length of word
-Space Complexity : O(N)
+// Approach 2: Hash Map
+// Time Complexity : O(N), where N is the length of word
+// Space Complexity : O(N)
 
 class Solution {
 public:

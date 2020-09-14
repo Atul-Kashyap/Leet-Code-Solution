@@ -1,6 +1,6 @@
-Approach 1: Brute Force
-Time Compleity: O(N), where N is the length of string
-Space Comlexity: O(1)
+// Approach 1: Brute Force
+// Time Compleity: O(N), where N is the length of string
+// Space Comlexity: O(1)
 
 class Solution {
 public:
@@ -20,9 +20,9 @@ public:
 };
 
 
-Approach 2: Brute Force
-Time Compleity: O(N), where N is the length of string
-Space Comlexity: O(1)
+// Approach 2: Brute Force
+// Time Compleity: O(N), where N is the length of string
+// Space Comlexity: O(1)
 
 class Solution {
 public:

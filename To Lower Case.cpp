@@ -1,6 +1,6 @@
-Approach 1: Brute Force
-Time Complexity : O(N)
-Space Complexity : O(1)
+// Approach 1: Brute Force
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 class Solution {
 public:
@@ -17,9 +17,9 @@ public:
     }
 };
 
-Approach 2: Brute Force
-Time Complexity : O(N)
-Space Complexity : O(1)
+// Approach 2: Brute Force
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 
 class Solution {
@@ -38,8 +38,28 @@ public:
 };
 
 
-Approach 3: Hash Map
-Time Complexity : O(N)
-Space Complexity : O(N)
+// Approach 3: Using transform(str.begin(), str.end(), ::tolower)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
+    
+ class Solution {
+public:
+    string toLowerCase(string str) {
+        
+        transform(str.begin(), str.end(), ::tolower);
+        
+    return str;
+    }
+};
+   
+    
+    
+    
+// Approach 4: Hash Map
+// Time Complexity : O(N)
+// Space Complexity : O(N)   
+    
+    
+    
 
 

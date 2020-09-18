@@ -19,6 +19,7 @@ Leet code questions solution in C++ using different approach.
 17. [Maximum Subarray](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Maximum%20Subarray.cpp)
 18. [Climbing Stairs](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Climbing%20Stairs.cpp)
 19. [3Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/3Sum.cpp)
+20. [Reverse Integer](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reverse%20Integer.cpp)
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

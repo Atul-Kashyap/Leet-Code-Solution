@@ -21,7 +21,7 @@ Leet code questions solution in C++ using different approach.
 19. [3Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/3Sum.cpp)
 20. [Reverse Integer](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reverse%20Integer.cpp)
 21. [Consecutive Numbers Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Consecutive%20Numbers%20Sum.cpp)
-
+22. [Path Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Path%20Sum.cpp)
 
 
 

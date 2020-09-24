@@ -9,7 +9,7 @@
  * };
  */
 
-// Approach 1: Sentinel
+// Approach 1: Sentinel Node
 // Time Complexity : O(N)
 // Space Complexity : O(1)
     

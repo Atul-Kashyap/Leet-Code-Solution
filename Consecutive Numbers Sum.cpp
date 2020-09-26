@@ -1,3 +1,12 @@
+N = (x+1) + (x+2) + ......................... + (x+k)
+  = kx + k(k+1)/2
+ 1) x = N/k - (k+1)/2
+    -> x ia an integer
+    -> x >= 0
+ 2) N/k - (k+1)/2 >= 0
+    (k+1/2)^2 <= N + 1/4
+   
+
 //Approach 1: Mathematical: Sum of First k Natural Numbers, sqrt(N) time
 // Time Complexity: sqrt(N)
 // Space Complexity: O(1)

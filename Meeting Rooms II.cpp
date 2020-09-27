@@ -58,7 +58,7 @@ public:
             usedrooms += 1;
             s_ptr += 1;
         }
-        
+      
         return usedrooms;
     }
 };

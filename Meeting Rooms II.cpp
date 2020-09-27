@@ -9,26 +9,20 @@ public:
         return a[0] < b[0];
         
     }
-    int minMeetingRooms(vector<vector<int>>& intervals) {
+   int minMeetingRooms(vector<vector<int>>& intervals) {
         int sz = intervals.size();
         if(sz == 0)
             return 0;
         priority_queue<int, vector<int>, greater<int>> pq;
-        int room = 1;
         sort(intervals.begin(), intervals.end(), comp);
         pq.push(intervals[0][1]);
-        for(int i = 1; i < sz; i++){
-            int end_time = pq.top();
-            if(intervals[i][0] >= end_time){
+        for(int i = 1; i < sz; ++i){
+            if(intervals[i][0] >= pq.top())
                 pq.pop();
-                pq.push(intervals[i][1]);
-            }
-            else{
-                room++;
-                pq.push(intervals[i][1]);
-            }
+        pq.push(intervals[i][1]);
+
         }
-       return room; 
+       return pq.size(); 
     }
 };
 

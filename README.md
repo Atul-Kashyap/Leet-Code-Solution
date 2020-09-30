@@ -29,7 +29,7 @@ Leet code questions solution in C++ using different approach.
 27. [Linked List Cycle II](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Linked%20List%20Cycle%20II.cpp)
 28. [Number of Islands](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Number%20of%20Islands.cpp)
 29. [Diameter Of Binary Tree](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Diameter%20of%20Binary%20Tree.cpp)
-
+30. [Reaching Points](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reaching%20Points.cpp)
 
 
 # Important Tutorials of Leet Code

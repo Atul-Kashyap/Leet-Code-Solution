@@ -30,7 +30,7 @@ Leet code questions solution in C++ using different approach.
 28. [Number of Islands](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Number%20of%20Islands.cpp)
 29. [Diameter Of Binary Tree](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Diameter%20of%20Binary%20Tree.cpp)
 30. [Reaching Points](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reaching%20Points.cpp)
-
+31. [Partition Labels](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Partition%20Labels.cpp)
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

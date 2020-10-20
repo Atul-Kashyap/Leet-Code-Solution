@@ -32,6 +32,8 @@ Leet code questions solution in C++ using different approach.
 30. [Reaching Points](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reaching%20Points.cpp)
 31. [Partition Labels](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Partition%20Labels.cpp)
 32. [Maximum Distance in Arrays](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Maximum%20Distance%20in%20Arrays.cpp)
+33. [Max Area of Island](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Max%20Area%20of%20Island.%20cpp)
+
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

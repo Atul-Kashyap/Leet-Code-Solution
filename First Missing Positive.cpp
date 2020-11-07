@@ -1,6 +1,6 @@
 // Approach 1: Index as a hash key
 // Time Complexity : O(N)
-// Auxiliary Space : O(N)
+// Auxiliary Space : O(1)
 
 
 class Solution {

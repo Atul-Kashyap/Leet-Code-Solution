@@ -34,7 +34,7 @@ Leet code questions solution in C++ using different approach.
 32. [Maximum Distance in Arrays](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Maximum%20Distance%20in%20Arrays.cpp)
 33. [Max Area of Island](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Max%20Area%20of%20Island.%20cpp)
 34. [Find All Numbers Disappeared in an Array](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
-
+35. [ Find the Duplicate Number](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Find_All_Duplicates_in_an_Array.cpp)
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

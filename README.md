@@ -36,6 +36,7 @@ Leet code questions solution in C++ using different approach.
 34. [Find All Numbers Disappeared in an Array](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
 35. [ Find the Duplicate Number](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Find_All_Duplicates_in_an_Array.cpp)
 36. [First Missing Positive](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/First%20Missing%20Positive.cpp)
+37. [Increasing Triplet Subsequence](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Increasing%20Triplet%20subsequence.cpp)
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

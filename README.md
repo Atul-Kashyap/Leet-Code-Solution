@@ -37,6 +37,12 @@ Leet code questions solution in C++ using different approach.
 35. [ Find the Duplicate Number](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Find_All_Duplicates_in_an_Array.cpp)
 36. [First Missing Positive](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/First%20Missing%20Positive.cpp)
 37. [Increasing Triplet Subsequence](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Increasing%20Triplet%20subsequence.cpp)
+38. [Two Sum IV - Input is BST](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Two%20Sum%20IV%20-%20Input%20is%20BST.cpp)
+
+
+
+
+
 
 # Important Tutorials of Leet Code
 1.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)

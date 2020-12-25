@@ -18,7 +18,7 @@ Leet code questions solution in C++ using different approach.
 16. [Split a String in Balanced Strings](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Split%20a%20String%20in%20Balanced%20Strings.cpp)
 17. [Maximum Subarray](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Maximum%20Subarray.cpp)
 18. [Climbing Stairs](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Climbing%20Stairs.cpp)
-19. [3Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/3Sum.cpp)
+19. [3Sum](#https://leetcode.com/problems/3sum/)[ C++](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/C++/3Sum.cpp)
 20. [Reverse Integer](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Reverse%20Integer.cpp)
 21. [Consecutive Numbers Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Consecutive%20Numbers%20Sum.cpp)
 22. [Path Sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Path%20Sum.cpp)

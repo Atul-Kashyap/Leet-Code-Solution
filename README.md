@@ -1,5 +1,5 @@
 # Leet Code Solutions
-Leet code questions solution in C++ using different approach.
+Leet code questions solution in C++ using different approach. 
 1. [Single Number](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Single%20Number.cpp)
 2. [Two sum](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Two_Sum.cpp)
 3. [Valid Palindrome](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Valid_Palindrome.cpp)

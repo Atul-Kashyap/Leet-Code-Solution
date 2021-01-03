@@ -34,7 +34,6 @@ class Solution {
 				while (left < right && nums[right] == last_right) --right;
 			}
 		}
-
 	}
 	return result;
 }

@@ -40,7 +40,7 @@ Leet code questions solution in C++ using different approach.
 38. [Two Sum IV - Input is BST](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Two%20Sum%20IV%20-%20Input%20is%20BST.cpp)
 39. [Plus One Linked List](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Plus%20One%20Linked%20List.cpp)
 40. [Kth Smallest Element in a BST](https://github.com/Atul-Kashyap/Leet-Code-Solution/blob/master/Kth%20Smallest%20Element%20in%20a%20BST.cpp)
-
+41. [ Minimum Difficulty of a Job Schedule]()
 
 
 
